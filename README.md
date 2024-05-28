@@ -1,4 +1,4 @@
-# WhatsApp Clone
+# Tea-shop
 
 Full Stack Tea Shopping App with Flutter, Firebase & Firestore!
 
